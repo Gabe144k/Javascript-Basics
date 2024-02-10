@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#generateNum{
+    font-size: 3rem;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+#myLabel{
+    font-size: 3rem;
+}
+
